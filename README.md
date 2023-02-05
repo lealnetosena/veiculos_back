@@ -65,7 +65,7 @@ Body
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer apagar |
+| `nome`      | `string` | **Obrigatório**. O nome que você quer procurar |
 
 #### Apagar um carro pelo id
 
@@ -75,7 +75,7 @@ Body
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer |
+| `id`      | `string` | **Obrigatório**. O ID do item que você quer apagar |
 
 #### Atualizar um carro pelo id
 ```http
@@ -84,7 +84,7 @@ Body
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer |
+| `id`      | `string` | **Obrigatório**. O ID do item que você quer atualizar |
 
 Body
 | Parâmetro   | Tipo       | Descrição                           |
