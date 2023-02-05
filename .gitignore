@@ -1,2 +1,2 @@
 node_modules
-./infra/banco.db
+infra/banco.db
